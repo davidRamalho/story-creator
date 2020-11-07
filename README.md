@@ -35,8 +35,8 @@ The following steps are only for _one_ of the group members to perform.
 
 ## Screenshots
 
-View on Load:
-!["Screenshot showing how appointments are created and deleted"](https://github.com/davidRamalho/scheduler/blob/master/docs/view-on-load.png?raw=true)
+Home Page:
+!["HomePage"](https://github.com/davidRamalho/story-creator/blob/master/docs/screenshots/HomePage.png?raw=true)
 
-Creating and Deleting Interview Appointments:
-!["Screenshot showing how appointments are created and deleted"](https://github.com/davidRamalho/scheduler/blob/master/docs/adding-deleting-appointments.png?raw=true)
+User Page:
+!["User Page"](https://github.com/davidRamalho/story-creator/blob/master/docs/screenshots/UserPage.png?raw=true)
