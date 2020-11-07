@@ -32,3 +32,11 @@ The following steps are only for _one_ of the group members to perform.
 - Node 10.x or above
 - NPM 5.x or above
 - PG 6.x
+
+## Screenshots
+
+View on Load:
+!["Screenshot showing how appointments are created and deleted"](https://github.com/davidRamalho/scheduler/blob/master/docs/view-on-load.png?raw=true)
+
+Creating and Deleting Interview Appointments:
+!["Screenshot showing how appointments are created and deleted"](https://github.com/davidRamalho/scheduler/blob/master/docs/adding-deleting-appointments.png?raw=true)
