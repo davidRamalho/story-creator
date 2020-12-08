@@ -1,7 +1,7 @@
 Story Creator
 =========
 
-Story Creator is a multi-page application which allows users to read and create stories, share contributions and upvote other users' contributions. 
+Story Creator is a multi-page full-stack application which allows users to read and create stories, share contributions and upvote other users' contributions. 
 
 ## Tech Stack
 
